@@ -39,7 +39,7 @@ const accordionInfo = [
 const accordion = new Vue({
 	el: "#accordion",
 	data: {
-		title: 'List of Brokers',
+		title: 'Shop by Category',
 		accordionList: accordionInfo,
 		type: ''
 	},
